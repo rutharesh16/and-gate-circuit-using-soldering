@@ -19,6 +19,7 @@
 **Both inputs ON → LED ON**
 
 **Any one input OFF → LED OFF**
+![image](and_gate_circuit_image.jpeg)
 
 **5\. CONCLUSION:**
 
